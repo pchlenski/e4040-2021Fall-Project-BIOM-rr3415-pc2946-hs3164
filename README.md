@@ -1,2 +1,3 @@
-# e4040-2021Fall-Project-BIOM-rr3415-pc2946-hs3164
-Neural distance embeddings project
+# ECBME 4040 final project: neural distance embeddings
+
+Based on https://arxiv.org/abs/2109.09740
