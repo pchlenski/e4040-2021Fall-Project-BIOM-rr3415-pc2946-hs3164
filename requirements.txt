@@ -1,0 +1,7 @@
+biopython
+ete3
+Levenshtein
+pandas
+numpy
+jupyter
+Keras-tuner
